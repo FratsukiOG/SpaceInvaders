@@ -8,7 +8,6 @@ TagManager:
   - Activator
   - GroundCheck
   - Bala
-  - Rayos
   - Enemigo
   layers:
   - Default

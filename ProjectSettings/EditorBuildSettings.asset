@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/spaceInvaders.unity
-    guid: ce2334b054e027549837d34c58fc9a98
+    path: Assets/Scenes/SpaceInvaders.unity
+    guid: 1ef9ca8aca0c13746928b0a8bf5125ca
   - enabled: 1
-    path: Assets/Scenes/JAM/Tutorial.unity
-    guid: 1722a5b9c7b6a8848b14ce62ddb08906
+    path: Assets/Scenes/SpaceInvaders_GameOver.unity
+    guid: a26bad209aaff0a4fbcb6e297c70f6bf
   m_configObjects: {}
